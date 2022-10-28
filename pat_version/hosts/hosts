@@ -1,0 +1,10 @@
+[ios]
+192.168.7.1
+192.168.7.4
+
+[all:vars]
+ansible_user=silva 
+ansible_password=Patrick@1975
+ansible_network_os=ios
+gitlab_project_id=40518789
+gitlab_access_token=glpat-cuPRccF6_LjDP4HxxD_o
