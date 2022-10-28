@@ -7,4 +7,3 @@ ansible_user=silva
 ansible_password=Patrick@1975
 ansible_network_os=ios
 gitlab_project_id=40518789
-gitlab_access_token=glpat-cuPRccF6_LjDP4HxxD_o
